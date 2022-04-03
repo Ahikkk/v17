@@ -1,11 +1,7 @@
 const topuppubg = (prefix) => { 
 	return `*HALLO KAK👋*
-*PILIH DIBAWAH YA!!!*
-*LIST UC PUBG*
-*NO ILEGAL*
-- 🎟️60 = Rp14.000
-- 🎟️120 = Rp28.000
-- 🎟️240 = Rp56.000
+UNTUK HARGA GEMS ITU
+1 M/1 BGL GHUB
 *minat? hub :* http://wa.me/${nomorowner}
 `
 }
