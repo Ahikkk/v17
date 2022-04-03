@@ -1,9 +1,10 @@
 const topuppointblank = (prefix) => { 
 	return `*HALLO KAK👋*
-*PILIH DIBAWAH YA!!!*
-*LIST TOPUP PB*
-*NO ILEGAL*
-_tidak tersedia, ke Indomaret Sono_
+untuk harga role adalah
+-role csn/farm/dll = 200 bgl ghub
+-role guardian = 50 wls rgt
+-role mods = 400 wls rgt
+-role admin= 800 wls rgt
 `
 }
 
